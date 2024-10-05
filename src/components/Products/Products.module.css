@@ -1,0 +1,13 @@
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  position: relative;
+  span {
+    position: absolute;
+  }
+} 
+li {
+  font-size: 8rem;
+}
